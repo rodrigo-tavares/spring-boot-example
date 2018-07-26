@@ -23,7 +23,7 @@ public class CursoResource {
         cursos = new HashMap<Integer, Curso>();
 
         Curso c1 = new Curso(1, "Workshop Rest", "24hs");
-        Curso c2 = new Curso(2, "Workshop Spring MVC", "24hs");
+        Curso c2 = new Curso(2, "Rodrigo Exemplo", "24hs");
         Curso c3 = new Curso(3, "Desenvolvimento Web com JSF 2", "60hs");
 
         cursos.put(1, c1);
